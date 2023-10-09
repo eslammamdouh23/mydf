@@ -1,0 +1,15 @@
+body{
+    background-color: greenyellow;
+    width:auto;
+    height: 5000px;
+}
+.sd{
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+    color:brown;
+    font-size: 50px;
+    background-color: slategrey;
+    width:450px;
+    height: 250px;
+}
